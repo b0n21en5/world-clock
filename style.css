@@ -1,0 +1,53 @@
+.container{
+    background-color: rgb(90, 13, 58);
+    padding: 30px 50px;
+    margin-bottom: 0;
+}
+
+img{
+    position: absolute;
+    bottom: 5%;
+    width:40%;
+}
+
+
+.set{
+    margin-left: 30%;
+    width:fit-content;
+}
+
+#alarm-j{
+    border: none;
+    top: 7px;
+    position: relative;
+}
+.footer{
+    background-color: #5c0d5c;
+    padding: 20px 0 20px;
+    text-align: center;
+  }
+
+#startClock{
+    margin: 0 20px;
+
+}
+
+.card a{
+    text-decoration: none;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+
+.navbar.bg-light{
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: aqua;
+    padding: 8px 0;
+}
+
+
